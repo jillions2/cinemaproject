@@ -1,0 +1,44 @@
+@import url(http://fonts.googleapis.com/css?family=Poppins:400,300,400italic,500,700,100);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700);
+@import url(http://fonts.googleapis.com/css?family=Abel);
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background:#FEF9F3;
+    position: relative;
+    font-weight:400px;
+    margin-bottom: 20px;
+  }
+
+#img_person{
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    padding-left: 55px;
+    background-color: #FDB45E;
+    width: auto;
+
+}
+
+#img_profile{
+    border-radius: 20px;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: #FF4E42;1
+}
+#img_profile img{
+    border-radius: 20px;
+}
+
+#img_person h1 {
+    font-size: 35px;
+}
+
+#img_profile h2 {
+    font-size: 40px;
+    color: #000;
+}
+
+#img_person legend {
+    border: #000;
+    font-size: 30px;
+
+  }
