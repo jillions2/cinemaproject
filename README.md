@@ -1,7 +1,17 @@
-# cinemaproject  # composer install
-how to run the ptoject
-1.Try executing  # composer install and #composer update in your project root directory
-2. reset the cached config files php artisan key:generate and php artisan config:cache
+# cinemaproject 
+E-commerce projects
+## Installation
+
+1.Try executing commands in your project root directory
+
 ```bash
-pip install foobar
+composer install 
+```
+```bash
+composer update
+```
+2. reset the cached config files
+```bash
+php artisan key:generate 
+php artisan config:cache
 ```
