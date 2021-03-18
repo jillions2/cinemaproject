@@ -13,7 +13,7 @@ composer update
 php artisan key:generate 
 php artisan config:cache
 ```
-## Run in this project
+## Run the project
 ```bash
 php artisan serve
 ```
